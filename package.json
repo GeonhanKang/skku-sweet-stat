@@ -1,0 +1,22 @@
+{
+    "name": "skku-sweet-stat",
+    "version": "0.1.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GeonhanKang/skku-sweet-stat.git"
+    },
+    "bin": {
+        "skku-stat": "./main.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/GeonhanKang/skku-sweet-stat/issues"
+    },
+    "homepage": "https://github.com/GeonhanKang/skku-sweet-stat#readme"
+}
